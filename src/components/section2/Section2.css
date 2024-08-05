@@ -1,0 +1,16 @@
+.customer_comment{
+    display: flex;
+    gap: 20px;
+}
+.customer_cards{
+    max-width: 400px;
+    height: 240px;
+    width: 100%;
+    padding: 28px 32px;
+    border-radius: 15px;
+    border: 1px solid rgb(183, 183, 183);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 40px;
+}

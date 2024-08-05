@@ -1,0 +1,9 @@
+#lin{
+    background-color: black;
+    height: 122px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 106px;
+    justify-content: center;
+}

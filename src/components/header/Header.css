@@ -1,0 +1,41 @@
+header{
+    width: 100%;
+    background-image: url(../../images/Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    font-weight: 700px;
+    font-size: 64px;
+    margin-bottom: 32px;
+}
+.text{
+    margin-bottom: 32px;
+}
+.homePage_wrapper{
+    max-width: 578px;
+}
+p{
+    color: rgb(123, 123, 123);
+}
+span{
+    font-size: 40px;
+}
+.home_btn{
+    padding: 16px 68px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 25px;
+    margin-bottom: 58px;
+}
+.sum{
+    display: flex;
+    gap: 32px;
+   
+}
+.box{
+    border-right: 2px solid rgb(218, 218, 218);
+}

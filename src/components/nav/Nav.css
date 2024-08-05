@@ -1,0 +1,30 @@
+.nav_wrapper{
+    max-width: 1240px;
+    display: flex;
+    padding: 13px 0;
+    gap: 40px;
+}
+ul{
+    align-items: center;
+    display: flex;
+    gap: 0 24px ;
+}
+.link{
+    display: flex;
+    gap: 14px;
+}
+a{
+    color: #000000;
+}
+.form{
+    max-width: 578px;
+    width: 100%;
+    background-color: #F0F0F0;
+    padding: 16px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+input{
+    padding: 12px;
+}

@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Satoshi Medium';
+    src: url('./assets/outfit/satoshi/Satoshi-Medium.otf') format('ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+:root{
+    --satoshi: 'Satoshi Medium', sans-serif;
+}
+.container{
+    max-width: 1240px;
+    margin: 0 auto;
+    box-sizing: content-box;
+    width: 100%
+}
+
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+input,
+button,
+select,
+textarea{
+    background: none;
+    border: none;
+    font: inherit;
+}
+
+input,
+select,
+textarea{
+    outline: none;
+}
+
+button{
+    cursor: pointer;
+}
+
